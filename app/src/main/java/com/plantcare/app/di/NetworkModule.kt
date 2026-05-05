@@ -20,7 +20,8 @@ object NetworkModule {
 
     // Use your Mac's LAN IP when running on a physical device (both must be on same WiFi)
     // Find it with: ipconfig getifaddr en0
-    private const val BASE_URL = "http://192.168.1.45:8000/"
+//    private const val BASE_URL = "http://192.168.1.45:8000/"
+    private const val BASE_URL = "http://10.0.0.226:8000/"
 
     @Provides
     @Singleton
