@@ -4,7 +4,7 @@ An AI-powered Android app that analyzes plant photos to provide identification, 
 
 ---
 
-## **[▶ Watch App Demo Video](https://drive.google.com/file/d/1BgEJjRJPbSER9G0_8NIhOzqk-VXYP0CN/view?usp=drive_link)**
+## **[▶ Watch App Demo Video](https://drive.google.com/file/d/1EjYOpUo6jgIlb6ii8_AJZaR9JcogyNJj/view?usp=drive_link)**
 
 > **Click the link above to watch a full walkthrough of the PlantCare AI app in action.**
 
